@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 Palmetto Ridge Highschool Senior (as of Feb 2026).
+
 ITECH Duell Enrolled in CSIT Program, 270 Hours (as of Feb 2026)
 
 
@@ -30,4 +31,4 @@ Skills
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+Theater Club Participant. This includes building sets, fundraising activites for the club, helping move scenes on and off of stage and direct who will help where.
