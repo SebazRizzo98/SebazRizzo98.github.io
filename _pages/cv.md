@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+Palmetto Ridge Highschool Senior (as of Feb 2026)
+ITECH Duell Enrolled in CSIT Program, 270 Hours (as of Feb 2026)
 
 Work experience
 ======
