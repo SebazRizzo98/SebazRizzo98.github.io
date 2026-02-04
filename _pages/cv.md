@@ -41,4 +41,4 @@ Key Club Participant.
 
 Training Others at Publix
 
--Includes helping new hires learn their responsabilites and teaching them how to properly handle their work load.
+-Includes helping new hires learn their responsibilities and teaching them how to properly handle their work load.
