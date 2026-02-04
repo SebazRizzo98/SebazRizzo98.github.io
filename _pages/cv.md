@@ -14,38 +14,19 @@ Education
 Palmetto Ridge Highschool Senior (as of Feb 2026).
 ITECH Duell Enrolled in CSIT Program, 270 Hours (as of Feb 2026)
 
+
 Work experience
 ======
-* Publix Front Entrence Service
-  * Duties includes: Bagging, Cart Service, Customer service
+* Publix Front Service Clerk
+  * Duties includes: Bagging, Cart Service, Customer service, Cleaning Service
 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Skill 1: Good task managing abilities
+* Skill 2: Giving excellent customer service
+* Skill 3: Able to relay messages between departments
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
