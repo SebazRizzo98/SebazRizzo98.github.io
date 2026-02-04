@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-Palmetto Ridge Highschool Senior (as of Feb 2026).
+-Palmetto Ridge Highschool Senior (as of Feb 2026).
 
-ITECH Duell Enrolled in CSIT Program, 270 Hours (as of Feb 2026)
+-ITECH Duell Enrolled in CSIT Program, 270 Hours (as of Feb 2026)
 
 
 Work experience
@@ -31,4 +31,6 @@ Skills
   
 Service and leadership
 ======
-Theater Club Participant. This includes building sets, fundraising activites for the club, helping move scenes on and off of stage and direct who will help where.
+Theater Club Participant. 
+
+-This includes building sets, fundraising activites for the club, helping move scenes on and off of stage, direct who will help where.
