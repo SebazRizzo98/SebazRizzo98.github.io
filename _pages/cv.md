@@ -16,10 +16,8 @@ ITECH Duell Enrolled in CSIT Program, 270 Hours (as of Feb 2026)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Publix Front Entrence Service
+  * Duties includes: Bagging, Cart Service, customer service
 
 * Fall 2015: Research Assistant
   * GitHub University
