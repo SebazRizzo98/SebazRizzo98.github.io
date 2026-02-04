@@ -32,10 +32,13 @@ Skills
 Service and leadership
 ======
 Theater Club Participant. 
+
 -Includes building sets, fundraising activites for the club, helping move scenes on and off of stage, direct who will help where.
 
 Key Club Participant.
+
 -Includes attending events to help out other communites or raise fundraiser money for the club/school.
 
 Training Others at Publix
+
 -Includes helping new hires learn their responsabilites and teaching them how to properly handle their work load.
