@@ -17,17 +17,8 @@ ITECH Duell Enrolled in CSIT Program, 270 Hours (as of Feb 2026)
 Work experience
 ======
 * Publix Front Entrence Service
-  * Duties includes: Bagging, Cart Service, customer service
+  * Duties includes: Bagging, Cart Service, Customer service
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
