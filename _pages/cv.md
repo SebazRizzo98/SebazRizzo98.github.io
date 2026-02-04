@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-Palmetto Ridge Highschool Senior (as of Feb 2026)
+Palmetto Ridge Highschool Senior (as of Feb 2026).
 ITECH Duell Enrolled in CSIT Program, 270 Hours (as of Feb 2026)
 
 Work experience
