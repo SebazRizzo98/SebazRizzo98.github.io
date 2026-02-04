@@ -19,7 +19,7 @@ Education
 Work experience
 ======
 * Publix Front Service Clerk
-  * Duties includes: Bagging, Cart Service, Customer service, Cleaning Service
+  -Duties includes: Bagging, Cart Service, Customer service, Cleaning Service
 
   
 Skills
